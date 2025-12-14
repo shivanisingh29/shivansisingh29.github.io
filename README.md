@@ -18,8 +18,10 @@ I am a fresher Python Developer with interest in data analysis, automation and d
 
 
 ## Featured Projects
-- **Twilio Sms Automation Project 
+- ***Twilio Sms Automation Project ***
+- 
    https://github.com/shivanisingh29/Twilio-sms-automation
 
-- **Power BI Sales Dashboard ***  
+- ***Power BI Sales Dashboard ***
+- 
   https://github.com/shivanisingh29/powerbi-sales-dashboard
