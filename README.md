@@ -25,3 +25,7 @@ I am a fresher Python Developer with interest in data analysis, automation and d
 - ***Power BI Sales Dashboard ***
 - 
   https://github.com/shivanisingh29/powerbi-sales-dashboard
+
+-*** Sales customer analytics dashboard ***
+-
+  https://github.com/shivanisingh29/sales-customer-analytics-dashboard
