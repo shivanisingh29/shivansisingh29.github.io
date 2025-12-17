@@ -15,7 +15,7 @@ I am a fresher Python Developer with interest in data analysis, automation and d
 - Pandas & NumPy  
 - Power BI  
 - Excel  
-
+- Matplotlib
 
 ## Featured Projects
 - ***Twilio Sms Automation Project ***
