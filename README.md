@@ -10,8 +10,10 @@ https://shivansisingh29.github.io
 I am a fresher Python Developer with interest in data analysis, automation and dashboards.
 
 ## Skills
-- Python  
-- SQL  
+- Python
+- Machine learning
+- SQL
+- scikit-learn
 - Pandas & NumPy  
 - Power BI  
 - Excel  
