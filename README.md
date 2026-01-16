@@ -29,3 +29,11 @@ I am a fresher Python Developer with interest in data analysis, automation and d
 - *** Sales customer analytics dashboard ***
 -
   https://github.com/shivanisingh29/sales-customer-analytics-dashboard
+
+- *** AutoExpire-QRCode ***
+-
+   https://github.com/shivanisingh29/AutoExpire-QRcode
+
+- *** Student Performance Prediction ***
+-
+   https://github.com/shivanisingh29/Student-performance-prediction
