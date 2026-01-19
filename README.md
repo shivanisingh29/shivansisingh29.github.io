@@ -16,7 +16,6 @@ I am a fresher Python Developer with interest in data analysis, automation and d
 - scikit-learn
 - Pandas & NumPy  
 - Power BI  
-- Excel  
 - Matplotlib
 
 ## Featured Projects
@@ -39,3 +38,6 @@ I am a fresher Python Developer with interest in data analysis, automation and d
 - *** Student Performance Prediction ***
 -
    https://github.com/shivanisingh29/Student-performance-prediction
+
+- *** House price prediction ***
+-  https://github.com/shivanisingh29/House-_price_prediction
