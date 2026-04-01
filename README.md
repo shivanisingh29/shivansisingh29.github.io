@@ -7,7 +7,7 @@ This repository contains my personal portfolio website built using HTML and CSS.
 https://shivansisingh29.github.io
 
 ## About Me
-I am a fresher Python Developer with interest in data analysis, automation and dashboards.
+I am a fresher Python Developer with interest in machine learning, automation. 
 
 ## Skills
 - Python
