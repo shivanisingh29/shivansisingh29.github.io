@@ -12,7 +12,7 @@ I am a fresher Python Developer with interest in machine learning, automation.
 ## Skills
 - Python
 - Machine learning
-- SQL
+- Streamlit
 - scikit-learn
 - Pandas & NumPy  
 - Power BI  
@@ -22,6 +22,10 @@ I am a fresher Python Developer with interest in machine learning, automation.
 - ***Twilio Sms Automation Project ***
 - 
    https://github.com/shivanisingh29/Twilio-sms-automation
+
+- ***Auto-Email Project ***
+- 
+  https://github.com/shivanisingh29/Bulk_AutoEmail
 
 - ***Power BI Sales Dashboard ***
 - 
